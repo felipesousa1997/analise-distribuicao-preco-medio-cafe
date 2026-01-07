@@ -25,6 +25,7 @@ A análise foi realizada utilizando **Python**, **Pandas** e **Seaborn**, com vi
 ---
 
 ## Estrutura do Projeto
+
 Projeto_02_Analise_Distribuicao_Preco_Medio_Cafe/
 │
 ├── projeto_02_analise_distribuicao_preco_medio_cafe.ipynb
